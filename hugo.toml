@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+title = "祝愿你能永远幸福地航行下去"
+theme = "paper"
+
+[params]
+  author = "ALinku"
+  description = "随笔｜小说｜月度总结"
+

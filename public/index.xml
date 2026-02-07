@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>祝愿你能永远幸福地航行下去</title>
-    <link>http://localhost:1313/</link>
+    <link>http://example.org/</link>
     <description>Recent content on 祝愿你能永远幸福地航行下去</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试</title>
-      <link>http://localhost:1313/essay/hello/</link>
+      <link>http://example.org/essay/hello/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essay/hello/</guid>
+      <guid>http://example.org/essay/hello/</guid>
       <description>&lt;p&gt;这是我个人博客的第一篇测试。&lt;/p&gt;&#xA;&lt;p&gt;如果你能看到这段文字，说明一切都开始了。&lt;/p&gt;</description>
     </item>
   </channel>
